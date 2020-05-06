@@ -1,7 +1,7 @@
 {
-  "name": "project-activity-manager",
+  "name": "typescript-express-mongo-boilerplate",
   "version": "1.0.0",
-  "description": "A tool for managing projects, and its associated tasks in an effecient manner",
+  "description": "A boilerplate application for express mongodb using typescript",
   "main": "src/app.js",
   "author": "Rituraj Borpujari",
   "license": "MIT",
